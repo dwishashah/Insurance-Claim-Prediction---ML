@@ -1,2 +1,2 @@
-# Insurance-Claim-Prediction---ML
+# InsuraScan---ML
 Machine Learning Mini Project
